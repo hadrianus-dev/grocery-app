@@ -1,4 +1,5 @@
 // ignore: file_names
+// ignore: file_names
 class Product {
   final String? title, image;
 
